@@ -1,1 +1,7 @@
-/* Nav  *//*# sourceMappingURL=style.css.map */
+/* Nav  */
+.maincontent {
+  background-image: url(/images/bootstrapbackground.jpeg);
+  background-repeat: no-repeat;
+  color: white;
+  background-size: cover;
+}/*# sourceMappingURL=style.css.map */
