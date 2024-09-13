@@ -19,7 +19,13 @@ html, body {
 
     .dev h1 {
         Margin-top: 7rem;
-         }
+      
+    
+    }
+
+    .bracket {
+        color: $primarycolor;
+       }
         
         .landing {
         Margin-top: 5rem;
@@ -30,5 +36,9 @@ html, body {
         }
         .description {
         Margin-top: 4rem;
+        }
+
+        .fontcolor {
+            color: $secondarycolor;
         }
         

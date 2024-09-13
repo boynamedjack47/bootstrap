@@ -23,6 +23,10 @@ html, body {
   Margin-top: 7rem;
 }
 
+.bracket {
+  color: rgb(146, 45, 146);
+}
+
 .landing {
   Margin-top: 5rem;
 }
@@ -33,4 +37,8 @@ html, body {
 
 .description {
   Margin-top: 4rem;
+}
+
+.fontcolor {
+  color: lightgray;
 }/*# sourceMappingURL=style.css.map */
