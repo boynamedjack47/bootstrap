@@ -1,6 +1,34 @@
-body {background-image: url(/images/background.jpg);
-    background-repeat: no-repeat;
-color: white;
-background-size: cover;
+/* Basic CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
+html, body {
+    height: 100%;
+    overflow-x: hidden; /* Prevent horizontal overflow */
+}
+    .maincontent {
+        height: 95%;
+        background-image: url(/images/background.jpg);
+        background-repeat: no-repeat;
+        color: white;
+        background-size: cover; /* Scale image to fit the element */
+    }
+
+    .dev h1 {
+        Margin-top: 7rem;
+         }
+        
+        .landing {
+        Margin-top: 5rem;
+        }
+        
+        .button {
+        Margin-top: 8rem;
+        }
+        .description {
+        Margin-top: 4rem;
+        }
+        
